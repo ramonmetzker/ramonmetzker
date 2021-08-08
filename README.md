@@ -1,8 +1,8 @@
 # Hi there 😁 Sou o Ramon Metzker 🚀
 <div>
   <a href="https://github.com/ramonmetzker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonmetzker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonmetzker&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonmetzker&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonmetzker&layout=compact&langs_count=8&theme=synthwave"/>
 </div>
   
 <div style="display: inline_block">
