@@ -2,7 +2,7 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Metzker 🚀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonmetzker&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Front End Web Developer
+- 🔥 Mid-level Front End Web Developer
 
 - 🔭 I’m currently working at [Mobister](https://mobister.com.br)
   
