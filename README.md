@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/16233109/139506234-96539964-4e6c-45f1-968a-fea07949037b.png"/>
+<!-- <img align="right" height="590em" src="https://user-images.githubusercontent.com/16233109/139506234-96539964-4e6c-45f1-968a-fea07949037b.png"/> -->
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Metzker 🚀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonmetzker&color=yellow" alt="Profile views" /> </p>
 
@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working at [Mobister](https://mobister.com.br)
   
-- 🌱 I’m currently learning **GraphQL, Node.js**
+- 🌱 I’m currently learning **Node.js and Flutter**
 
-- 👨‍💻 My projects will soon be available at [ramonmetzker.dev.br](https://ramonmetzker.dev.br)
-
-- 💬 Ask me about **ReactJS, Next.js, Typescript, Javascript, HTML and CSS**
+- 💬 Ask me about **ReactJS, Next.js, GraphQL, Typescript, Javascript, HTML and CSS**
 
 - ⚡ I'm also an English teacher 😁
 
@@ -22,9 +20,10 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![CSS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
