@@ -1,49 +1,47 @@
 <!-- <img align="right" height="590em" src="https://user-images.githubusercontent.com/16233109/139506234-96539964-4e6c-45f1-968a-fea07949037b.png"/> -->
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ramon Metzker 🚀</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonmetzker&color=yellow" alt="Profile views" /> </p>
+# Ramon Metzker 🚀
+![Next.js Evangelist](https://img.shields.io/static/v1?label=Next.js&message=Enthusiast&color=blue&logo=nextdotjs&style=social)&nbsp;
+![GraphQL Developer](https://img.shields.io/static/v1?label=GraphQL&message=Apollo%20Graph%20Developer%20-%20Associate&color=E10098&logo=graphql&style=social)
 
-- 🔥 Mid-level Front End Web Developer
+### About Me
+> 💻 Mid-level Front-end Developer (omw to fullstack)</br>
+> 💟 Javascript Lover and Typescript passionate</br>
+> ⌨️ Wordpress + Next.js specialist wannabe</br>
+> 🎮 Gamer during the weekends</br>
+> ☕ Coffee addict! (as most of my fellow profession friends) 😆<br>
+##
+### 🛠 &nbsp;Stack
 
-- 🔭 I’m currently working at [Mobister](https://mobister.com.br)
-  
-- 🌱 I’m currently learning **Node.js and Flutter**
-
-- 💬 Ask me about **ReactJS, Next.js, GraphQL, Typescript, Javascript, HTML and CSS**
-
-- ⚡ I'm also an English teacher 😁
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+These are some of the technologies I work with on a daily basis.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 
+I also happen to know some other things, but basically for my own personal knowledge. I'm currently foccused on becoming a fullstack Javascript dev, so Node.js is my priority during my studies routine. Mobile is what's coming after I achieve this first goal.
 
-<br><br>
+##
+### ⚙️ &nbsp;GitHub Analytics
 
-## ⚙️ &nbsp;GitHub Analytics
+These are not all my contributions. I do most of my work on Bitbucket, so there's a lot of things missing here 😅
+Also, PHP?? Nah
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonmetzker&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="ramonmetzker's stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonmetzker&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="ramonmetzker's most languages"/>
 </p>
 
-<br><br>
+##
+### 👨🏿 &nbsp;You will find me here
 
-## 👨🏿 &nbsp;Social Links
-
+I want to be more active on my social networks, but right now I'm too busy. But if you still want to check me out, here they are! Send me a message and we can chat about tech!
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/ramonmtzkr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ramonmtzkr-05122A?style=flat&logo=twitter" alt="twitter"/>  
@@ -54,9 +52,4 @@
 <a href="https://instagram.com/ramontzk" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ramontzk-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ramonmetzker12-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ramonmtzkr&layout=wide&show_reply=off&show_retweet=off" />
