@@ -6,7 +6,7 @@
 ### About Me
 > 💻 Mid-level Front-end Developer (omw to fullstack)</br>
 > 💟 Javascript Lover and Typescript passionate</br>
-> ⌨️ Wordpress + Next.js specialist wannabe</br>
+> ⌨️ Next.js specialist wannabe</br>
 > 🎮 Gamer during the weekends</br>
 > ☕ Coffee addict! (as most of my fellow profession friends) 😆<br>
 ##
