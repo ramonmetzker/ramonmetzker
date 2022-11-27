@@ -31,8 +31,8 @@ I also happen to know some other things, but basically for my own personal knowl
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonmetzker&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="ramonmetzker's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonmetzker&layout=compact&langs_count=8&theme=synthwave" alt="ramonmetzker's most languages"/>
+<img height="180em" src="https://gitcards-one.vercel.app/api?username=ramonmetzker&show_icons=true&theme=midnight-purple&include_all_commits=true" alt="ramonmetzker's stats"/>
+<img height="180em" src="https://gitcards-one.vercel.app/api/top-langs/?username=ramonmetzker&layout=compact&langs_count=8&theme=midnight-purple&hide=PHP" alt="ramonmetzker's most languages"/>
 </p>
 
 ##
