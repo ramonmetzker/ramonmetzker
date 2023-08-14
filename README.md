@@ -4,11 +4,11 @@
 ![GraphQL Developer](https://img.shields.io/static/v1?label=GraphQL&message=Apollo%20Graph%20Developer%20-%20Associate&color=E10098&logo=graphql&style=social)
 
 ### About Me
-> 💻 Mid-level Front-end Developer (omw to fullstack)</br>
-> 💟 Javascript Lover and Typescript passionate</br>
-> ⌨️ Next.js specialist wannabe</br>
+> 💻 Mid-Senior Software Developer</br>
+> 💟 Javascript/Typescript fullstack</br>
+> ⌨️ Next.js specialist</br>
 > 🎮 Gamer during the weekends</br>
-> ☕ Coffee addict! (as most of my fellow profession friends) 😆<br>
+> ☕ Coffee addict!<br>
 ##
 ### 🛠 &nbsp;Stack
 
