@@ -1,7 +1,8 @@
 <!-- <img align="right" height="590em" src="https://user-images.githubusercontent.com/16233109/139506234-96539964-4e6c-45f1-968a-fea07949037b.png"/> -->
 # Ramon Metzker 🚀
-![Next.js Evangelist](https://img.shields.io/static/v1?label=Next.js&message=Enthusiast&color=blue&logo=nextdotjs&style=social)&nbsp;
-![GraphQL Developer](https://img.shields.io/static/v1?label=GraphQL&message=Apollo%20Graph%20Developer%20-%20Associate&color=E10098&logo=graphql&style=social)
+![Next.js User](https://img.shields.io/static/v1?label=Next.js&message=User&color=blue&logo=nextdotjs&style=social)&nbsp;
+![GraphQL Developer](https://img.shields.io/static/v1?label=GraphQL&message=Developer&color=E10098&logo=graphql&style=social)&nbsp;
+![Node.js Developer](https://img.shields.io/static/v1?label=Node.js&message=Developer&color=green&logo=nodedotjs&style=social)
 
 ### About Me
 > 💻 Mid-Senior Software Developer</br>
@@ -16,6 +17,7 @@ These are some of the technologies I work with on a daily basis.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Node](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=node.js)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
@@ -40,8 +42,8 @@ I also happen to know some other things, but basically for my own personal knowl
 
 I want to be more active on my social networks, but right now I'm too busy. But if you still want to check me out, here they are! Send me a message and we can chat about tech!
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/ramonmtzkr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ramonmtzkr-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/ramon_tsx" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ramon_tsx-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/ramon-metzker" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ramonmetzker-05122A?style=flat&logo=linkedin" alt="linkedin"/>
